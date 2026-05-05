@@ -19,6 +19,8 @@ fo-copilot/
 │           │   └── SKILL.md        ← X++ patterns, naming conventions and D365 F&O dev guidelines
 │           └── structured-commit/
 │               └── SKILL.md        ← commit message structure, format rules and forbidden words
+│           └── fo-label-translator/
+│               └── SKILL.md        ← translate labels
 └── README.md
 ```
 

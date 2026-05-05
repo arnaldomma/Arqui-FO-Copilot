@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "Copilot skills and agents for D365 F&O",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "fo-xpp",
       "description": "X++ skills and D365 F&O patterns",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "./plugins/fo-xpp"
     }
   ]
