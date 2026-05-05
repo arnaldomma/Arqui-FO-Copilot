@@ -1,0 +1,10 @@
+{
+  "name": "fo-xpp",
+  "description": "X++ skills and D365 F&O patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arnaldo"
+  },
+  "keywords": ["x++", "d365", "dynamics", "erp"],
+  "skills": "skills/"
+}
