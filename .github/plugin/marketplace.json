@@ -1,0 +1,19 @@
+{
+  "name": "fo-copilot",
+  "owner": {
+    "name": "Arnaldo",
+    "email": "arnaldo.alves@arquiconsult.com"
+  },
+  "metadata": {
+    "description": "Copilot skills and agents for D365 F&O",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "fo-xpp",
+      "description": "X++ skills and D365 F&O patterns",
+      "version": "1.0.0",
+      "source": "./plugins/fo-xpp"
+    }
+  ]
+}
